@@ -1,0 +1,231 @@
+ul {
+    gap: 45px;
+}
+
+.navbar-content {
+    height: 100px;
+    align-items: center;
+}
+
+.logo-img img {
+    width: 187px;
+    height: 71px;
+}
+
+#birinchi {
+    margin-top: 100px;
+}
+
+
+.product-card {
+
+    width: 290px;
+    height: 270px;
+
+
+    border-radius: 10px;
+    background: #FCFFFC;
+    box-shadow: 4px 2px 4px 4px rgba(0, 0, 0, 0.10);
+
+    text-align: center;
+}
+
+
+.ikkinchi-content {
+    gap: 20px;
+}
+
+.small-cards{
+    gap: 20px;
+    border-radius: 10px;
+}
+
+.small-cards-3{
+    gap: 20px;
+}
+.text-tex p{
+    
+    font-weight: 750;
+}
+
+.naush{
+    width: 225px;
+    height: 57px;
+}
+
+.pred{
+    font-size: 16px;
+    font-weight: 400;
+}
+.upper-popular-cards, .down-popular-cards{
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.first-cards, .second-cards, .third-cards{
+    gap: 20px;
+    margin-top: 20px;
+}
+.hdh{
+    display: flex;
+    height: 100px;
+    padding: 0px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    border-radius: 10px;
+    background: #EFEFEF;
+}
+
+/* footer{
+    width: 1797px;
+    height: 491px;
+    background-color: #EEF1F2;
+} */
+
+.product-card {
+
+    width: 290px;
+    height: 270px;
+
+
+    border-radius: 10px;
+    background: #FCFFFC;
+    box-shadow: 4px 2px 4px 4px rgba(0, 0, 0, 0.10);
+
+    text-align: center;
+}
+
+
+.ikkinchi-content {
+    gap: 20px;
+}
+
+
+
+.zakaz-card {
+    width: 910px;
+
+    margin: 0 auto;
+
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid var(--unnamed, #EAEAEA);
+}
+
+.zakaz-text {
+    width: 300px;
+}
+
+.price {
+    color: var(--unnamed, #333232);
+    text-align: center;
+
+    /* текст 18 bold */
+
+    font-size: 18px;
+
+    font-weight: 700;
+
+}
+.jjji{
+    border-radius: 10px;
+    background: #FFF1F1;
+
+    width: 530px;
+    height: 39px;
+    
+    padding: 10px;
+}
+.logo{
+    width: 187px;
+    height: 71px;
+}
+.logotip p{
+    padding-top: 10px;
+    padding-left: 20px;
+    
+}
+
+.instavibertelegram{
+    padding-top: 10px;
+    padding-left: 50px;
+    gap: 20px;
+}
+
+.zakaz-card-2 {
+    width: 910px;
+
+    margin: 0 auto;
+
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid var(--unnamed, #EAEAEA);
+}
+
+.addres-text{
+    display: inline-flex;
+    padding: 10px 499px 11px 10px;
+    align-items: center;
+
+    border-radius: 10px;
+    border: 1px solid var(--unnamed, #EAEAEA);
+}
+
+.n{
+    display: flex;
+width: 203px;
+padding: 10px 184px 11px 10px;
+align-items: center;
+
+border-radius: 10px;
+border: 1px solid var(--unnamed, #EAEAEA);
+}
+
+.kop{
+    gap: 15px;
+}
+
+.name{
+    display: flex;
+width: 476px;
+padding: 10px 413px 11px 10px;
+align-items: center;
+
+border-radius: 10px;
+border: 1px solid var(--unnamed, #EAEAEA);
+}
+
+.number{
+    display: flex;
+width: 476px;
+padding: 10px 333px 11px 10px;
+align-items: center;
+
+border-radius: 10px;
+border: 1px solid var(--unnamed, #EAEAEA);
+}
+
+.first-btn{
+gap: 20px;
+}
+
+.second-btn{
+    gap: 20px;
+}
+
+.oform-z{
+    display: flex;
+width: 910px;
+height: 53px;
+padding: 17px 0px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+border-radius: 10px;
+background: var(--1, #EFEFEF);
+
+margin-left: 220px;
+
+}
